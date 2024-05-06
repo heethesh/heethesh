@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/-@HeetheshVhavle-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HeetheshVhavle)](https://twitter.com/HeetheshVhavle)
 <!--[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=FFFFFF&link=https://www.youtube.com/channel/UCOs8CeDw-JCQvhcCAE_b6-A)](https://www.youtube.com/channel/UCOs8CeDw-JCQvhcCAE_b6-A)-->
 
-Perception at **Aeva, Inc**  
+Perception and SLAM at **Aeva, Inc**  
 Robotics Graduate (MRSD) from **Carnegie Mellon University**  
 Perception **|** Geometric Vision **|** SLAM **|** AR/VR **|** Self-Driving  
 
